@@ -10,7 +10,7 @@ body {
 .container{
   position: relative;
   height: 600px;
-  width: 600px;
+  width: 700px;
   overflow: hidden;
   box-shadow: 0px 2px 5px rgba(187, 41, 163, 0.3);
 }
